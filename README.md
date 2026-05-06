@@ -1,5 +1,7 @@
 # Binary Search Visualization
 
+![Binary Search Thumbnail](thumbnail.png)
+
 A high-quality educational animation explaining Binary Search vs. Linear Search, built using [Motion Canvas](https://motion-canvas.github.io/).
 
 ## Watch the Video
