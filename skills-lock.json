@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "skills": {
+    "animation-basics": {
+      "source": "videozero/skills",
+      "sourceType": "github",
+      "skillPath": "animation-basics/SKILL.md",
+      "computedHash": "b020b9d907e62ea78f5fdd750222f44e37e382736dcf4b6d58fc8894a11ccfe8"
+    },
+    "motion-canvas": {
+      "source": "videozero/skills",
+      "sourceType": "github",
+      "skillPath": "motion-canvas/SKILL.md",
+      "computedHash": "0c73a8c92ce745cd3fa3e4206b22ef41731c8d3324d8a541ee48ff076bcf4feb"
+    },
+    "motion-canvas-agent": {
+      "source": "videozero/skills",
+      "sourceType": "github",
+      "skillPath": "motion-canvas-agent/SKILL.md",
+      "computedHash": "dd89570e7bc75f9e7128a7e835df7eafb77159d366406c11cdb33fa190899c48"
+    }
+  }
+}
